@@ -59,7 +59,7 @@
 										<i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="account_selection">
-										<li><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>Order</a></li>
+										<li><a href="customer_order.php?id=<?= $_SESSION['login_user']['id'] ?>"><i class="fa fa-user-plus" aria-hidden="true"></i>Order</a></li>
 										<li><a href="signout.php"><i class="fa fa-user-plus" aria-hidden="true"></i>Log Out</a></li>
 									</ul>
 								</li>
