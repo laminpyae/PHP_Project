@@ -19,7 +19,8 @@
   <!-- Custom styles for this template-->
   <link href="backend/css/sb-admin-2.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="backend/vendor/datatables/dataTables.bootstrap4.css">
-
+  <!-- Logo -->
+  <link rel="icon" href="frontend/images/logo.png" type="image/icon type">
 </head>
 
 <body id="page-top">

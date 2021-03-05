@@ -19,6 +19,8 @@
 <link rel="stylesheet" type="text/css" href="frontend/styles/responsive.css">
 <!-- Font Awesome -->
 <link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
+<!-- Logo -->
+<link rel="icon" href="frontend/images/logo.png" type="image/icon type">
 </head>
 
 <body>
